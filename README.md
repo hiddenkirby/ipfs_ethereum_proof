@@ -1,8 +1,10 @@
 
 ##This project will 
 1. upload a file to ipfs 
-2. get the hash back from ipfs 
+2. get the hash back from ipfs  (used like this https://gateway.ipfs.io/ipfs/QmWzt9k2yUJADjmvRKm5p7bnHkkktfveH4GobcqkaRyzLD)
 3. use metamask to write the hash to the ethereum blockchain using this contract. 
+  https://ropsten.etherscan.io/tx/0xab013e36c663b77d8c1c9e356fff4e67237bba150a612a6e8cc9dd5f7aaa91bf
+  (you must have metamask set to ropsten, and you must have ether on that account)
 4. return you a tx receipt
 
 
