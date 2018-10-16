@@ -1,3 +1,13 @@
+
+##This project will 
+1. upload a file to ipfs 
+2. get the hash back from ipfs 
+3. use metamask to write the hash to the ethereum blockchain using this contract. 
+4. return you a tx receipt
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
